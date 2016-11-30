@@ -7,10 +7,11 @@
 - [x] цифры не изменялись
 
 ###*Исходный вид*
-[]! https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss21.png
-https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss22.png
-https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss23.png
-https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss24.png
-https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss25.png
-https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss26.png
-https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss27.png
+
+![](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss21.png)
+![](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss22.png)
+![](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss23.png)
+![](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss24.png)
+![](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss25.png)
+![](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss26.png)
+![](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss27.png)
