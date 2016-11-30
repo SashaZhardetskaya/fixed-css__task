@@ -8,7 +8,7 @@
 
 ###*Исходный вид*
 
-![](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss21.png)
+![pic1](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss21.png)
 ![](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss22.png)
 ![](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss23.png)
 ![](https://github.com/SashaZhardetskaya/fixed-css__task/blob/master/bcss24.png)
