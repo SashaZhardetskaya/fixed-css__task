@@ -9,7 +9,7 @@
     font-style: normal;
 }
 
-.font-face {
+@font-face {
     font-family: 'myPTNarrow';
     src: url('font/PTN57F-webfont.eot');
     src: url('font/PTN57F-webfont.eot?#iefix') format('embedded-opentype'),
